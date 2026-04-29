@@ -1,0 +1,6 @@
+print("Enter value of a: ")
+int(input())
+print("Enter value of b: ")
+int(input())
+print("Enter value of c: ")
+int(input())
