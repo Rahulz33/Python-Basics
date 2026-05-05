@@ -1,0 +1,8 @@
+def ganesh(n):
+    for i in range(1, 20):
+        if i % n == 0:
+            return
+        else:
+            print("Hi")
+    print("Are you okay")
+ganesh(4)
