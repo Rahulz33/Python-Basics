@@ -1,3 +1,3 @@
-# Basic-Python-Codes
+# Basic Python Codes
 
-A collection of beginner-friendly Python programs created to practice core programming concepts and improve problem-solving skills.
+A collection of beginner friendly Python programs created to practice core programming concepts and improve problem solving skills.
